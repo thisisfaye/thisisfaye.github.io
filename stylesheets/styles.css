@@ -50,6 +50,10 @@ a small {
   margin:0 auto;
 }
 
+.wrapper img{
+  width:300px;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -92,9 +96,7 @@ th {
 }
 
 img {
-  max-width:30%;
-  /*width: 50%*/
-  width: 300px;
+  max-width:100%;
 }
 
 header {
